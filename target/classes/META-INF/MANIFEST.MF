@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringAOP-AspectJ
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ittipol
+Implementation-Vendor-Id: com.sample.springaop-aspectj
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/spring-aop-a
+ spectj/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
